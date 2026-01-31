@@ -7,11 +7,11 @@ Amazon order 8892	----> Shopping
 Random transfer ABC	----> Others
 flipkart purchase 	----> Shopping
 zomato ID243	----> Food
-Jet Airways ticket	----> Others
+Jet Airways ticket	----> Transport
 cinema ticket 	----> Others
 bought messika	----> Shopping
 ordered Swiggy	----> Food
-savari taken	----> Others
+savari taken	----> Transport
 burger taken	----> Food
 ZOM1234 txn completed	----> Transport
 Amazon Prime grocery order	----> Subscription
