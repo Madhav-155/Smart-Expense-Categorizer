@@ -1,0 +1,14 @@
+{
+  "name": "smart-expense-categorizer",
+  "version": "1.0.0",
+  "description": "Keyword-based transaction categorizer for personal finance app",
+  "main": "src/categorizeTransaction.js",
+  "license": "UNLICENSED",
+  "scripts": {
+    "file:run": "node scripts/run-file.js input.txt output.txt"
+  },
+  "dependencies": {
+    "@google/genai": "^1.38.0",
+    "dotenv": "^17.2.3"
+  }
+}

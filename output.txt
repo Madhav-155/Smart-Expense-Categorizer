@@ -1,0 +1,32 @@
+Swiggy order #2391	----> Food
+Uber trip Jan 12	----> Transport
+LIC premium paid	----> Insurance
+Netflix monthly subscription	----> Subscription
+Electricity bill Dec	----> Utilities
+Amazon order 8892	----> Shopping
+Random transfer ABC	----> Others
+flipkart purchase 	----> Shopping
+zomato ID243	----> Food
+Jet Airways ticket	----> Others
+cinema ticket 	----> Others
+bought messika	----> Shopping
+ordered Swiggy	----> Food
+savari taken	----> Others
+burger taken	----> Food
+ZOM1234 txn completed	----> Transport
+Amazon Prime grocery order	----> Subscription
+UBR TRIP 14JAN	----> Food
+ nEtFlIx   AUTO-PAY	----> Subscription
+TXN ID 84739201	----> Transport
+BESCOM ELECTRICITY BILL	----> Utilities
+Amazon Pay Recharge	----> Shopping
+Spotify Family Plan	----> Subscription
+Spotify merch store	----> Subscription
+LIC-HFL PREM AUTO DEBIT 02/01	----> Insurance
+Blinkit order #8821	----> Food
+Swigy order	----> Food
+Uber refund processed	----> Transport
+Netflix + GST charged	----> Subscription
+POS TXN SUCCESSFUL	----> Transport
+swigy 	----> Food
+ubr booked	----> Food
